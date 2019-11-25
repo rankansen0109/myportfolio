@@ -1,0 +1,60 @@
+h1.mainheading {
+      font-family: Georgia;
+      font-size: 50px;
+      cursor: text;
+      font-style: italic bold;
+      color: #000000;
+      text-decoration: underline;
+    }
+
+    .imp {
+      background-image: linear-gradient(-45deg, #6666ff, #ffccff, #ff66ff, #ffff66);
+      padding: 20px;
+      background-size: cover;
+      border: 5px solid #ff66ff;
+      border-radius: 800px;
+    }
+
+    h2.subheading {
+      font-family: "Brush Script MT";
+      font-size: 80px;
+      font-style: bold;
+      cursor: text;
+      text-decoration: underline;
+      text-shadow: 8px 2px 3px grey;
+      text-indent: 60px;
+      color: #000000;
+    }
+
+    img.avatar {
+      border-radius: 100px;
+    }
+
+    h4.name {
+      font-family: Century Gothic;
+      font-size: 50px;
+      cursor: text;
+      text-shadow: 4px 2px 3px grey;
+      color: #000000;
+    }
+
+    p.intro {
+      font-family: Brush Script MT;
+      font-size: 50px;
+      text-indent: 70px;
+      letter-spacing: 1px;
+      cursor: text;
+      color: white;
+    }
+
+    .bg {
+      background-image: url("images/b4.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+    }
+	body{
+
+	margin:0;
+	padding:0;
+	}
